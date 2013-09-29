@@ -1,0 +1,31 @@
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\MileStone4.PlayerInfoForm.resources
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\MileStone4.Properties.Resources.resources
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\MileStone4.exe
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\MileStone4.pdb
+C:\Users\IcyRagemora\Documents\Documents\RIT\Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\obj\x86\Debug\MileStone4.TankGameForm.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.exe
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.pdb
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.PlayerInfoForm.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.Properties.Resources.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.TankGameForm.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4\MileStone4\MileStone4\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.exe
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.pdb
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.exe
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\bin\Debug\MileStone4.pdb
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.PlayerInfoForm.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.Properties.Resources.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.TankGameForm.resources
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\RIT Freshman Year\Winter Quarter Classes\MileStone4 (3)\MileStone4\MileStone4\MileStone4\obj\x86\Debug\MileStone4.Winner.resources

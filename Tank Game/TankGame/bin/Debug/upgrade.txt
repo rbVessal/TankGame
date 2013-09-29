@@ -1,0 +1,10 @@
+//author: Rebecca Vessal
+//Instructor: Professor Whittington
+//Date: 2/20/11
+
+My Game Feature/Upgrade
+When the winner dialog box appears, 
+the image of the winner's tank also appears below the winner's name.
+Also the players are offered a chance to play the game again if they wish to.
+If they click on the yes button, then it will start a new game.
+If they click on the no button, then it will close all of the dialog boxes.
